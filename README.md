@@ -5,7 +5,7 @@ instructions for building an apk file for react native project can be found in t
 https://android.jlelse.eu/preparing-a-reach-native-android-app-for-production-f063413d5633
 https://facebook.github.io/react-native/docs/signed-apk-android.html
 
-EVen though the documnent is self explanatory there are some issues while building an apk in a windows machine. Some of the major errors faced while creating apk in a windows machine and their remedys are explained below for future reference. 
+EVen though the documnent is self explanatory there are some issues while building an apk in a windows machine. Some of the major errors faced while creating apk in a windows machine and their solutions are explained below for future reference. 
 # Apk for windows
 # Setting up gradle variables
 
