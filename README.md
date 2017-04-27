@@ -1,6 +1,6 @@
 # UniRidePrerelease
 Prerelease for UniRide app 
-# Instructions for building apk 
+# Instructions for building apk for your reactive native project 
 instructions for building an apk file for react native project can be found in the following links 
 https://android.jlelse.eu/preparing-a-reach-native-android-app-for-production-f063413d5633
 https://facebook.github.io/react-native/docs/signed-apk-android.html
